@@ -1,0 +1,6 @@
+{
+  "HotelsApplication.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Api",
+  "HotelsApplication.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Application",
+  "HotelsApplication.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain",
+  "HotelsApplication.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Infrastructure"
+}

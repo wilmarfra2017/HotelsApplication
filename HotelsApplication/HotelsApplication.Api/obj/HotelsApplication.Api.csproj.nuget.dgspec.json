@@ -1,0 +1,351 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Api\\HotelsApplication.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Api\\HotelsApplication.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Api\\HotelsApplication.Api.csproj",
+        "projectName": "HotelsApplication.Api",
+        "projectPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Api\\HotelsApplication.Api.csproj",
+        "packagesPath": "C:\\Users\\wilmar.martinez\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wilmar.martinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Application\\HotelsApplication.Application.csproj": {
+                "projectPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Application\\HotelsApplication.Application.csproj"
+              },
+              "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\HotelsApplication.Domain.csproj": {
+                "projectPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\HotelsApplication.Domain.csproj"
+              },
+              "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Infrastructure\\HotelsApplication.Infrastructure.csproj": {
+                "projectPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Infrastructure\\HotelsApplication.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Application\\HotelsApplication.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Application\\HotelsApplication.Application.csproj",
+        "projectName": "HotelsApplication.Application",
+        "projectPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Application\\HotelsApplication.Application.csproj",
+        "packagesPath": "C:\\Users\\wilmar.martinez\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wilmar.martinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\HotelsApplication.Domain.csproj": {
+                "projectPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\HotelsApplication.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\HotelsApplication.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\HotelsApplication.Domain.csproj",
+        "projectName": "HotelsApplication.Domain",
+        "projectPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\HotelsApplication.Domain.csproj",
+        "packagesPath": "C:\\Users\\wilmar.martinez\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wilmar.martinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Infrastructure\\HotelsApplication.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Infrastructure\\HotelsApplication.Infrastructure.csproj",
+        "projectName": "HotelsApplication.Infrastructure",
+        "projectPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Infrastructure\\HotelsApplication.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\wilmar.martinez\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wilmar.martinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\HotelsApplication.Domain.csproj": {
+                "projectPath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\HotelsApplication.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

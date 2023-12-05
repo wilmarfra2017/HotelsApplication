@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OC2AgIO/nqFGFuABqMbUqhEhD40fclcuqewDhzlZ7ZdTLX682WQ8Cs5tOU94R/q21jcB9eJnsgA88vQo0rAisA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Domain\\HotelsApplication.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wilmar.martinez\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

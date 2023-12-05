@@ -1,0 +1,12 @@
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\bin\Debug\net7.0\HotelsApplication.Domain.deps.json
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\bin\Debug\net7.0\HotelsApplication.Domain.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\bin\Debug\net7.0\HotelsApplication.Domain.pdb
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\obj\Debug\net7.0\HotelsApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\obj\Debug\net7.0\HotelsApplication.Domain.AssemblyInfoInputs.cache
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\obj\Debug\net7.0\HotelsApplication.Domain.AssemblyInfo.cs
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\obj\Debug\net7.0\HotelsApplication.Domain.csproj.CoreCompileInputs.cache
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\obj\Debug\net7.0\HotelsApplication.Domain.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\obj\Debug\net7.0\refint\HotelsApplication.Domain.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\obj\Debug\net7.0\HotelsApplication.Domain.pdb
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\obj\Debug\net7.0\ref\HotelsApplication.Domain.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Domain\obj\Debug\net7.0\HotelsApplication.Domain.csproj.AssemblyReference.cache

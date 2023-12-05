@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZbHg+ieK80OOVva2MnFyQ5L+OA7447ZiCeSHKXVw0vmuD6t2Zm4k/4Jd2QW8tLZmqq6/Xg8rpJOJtUqyT3kMIA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\HotelsApplication\\HotelsApplication\\HotelsApplication.Application\\HotelsApplication.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wilmar.martinez\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\wilmar.martinez\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\wilmar.martinez\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\wilmar.martinez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\wilmar.martinez\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

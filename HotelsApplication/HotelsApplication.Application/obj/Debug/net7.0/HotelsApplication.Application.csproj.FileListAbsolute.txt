@@ -1,0 +1,15 @@
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\bin\Debug\net7.0\HotelsApplication.Application.deps.json
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\bin\Debug\net7.0\HotelsApplication.Application.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\bin\Debug\net7.0\HotelsApplication.Application.pdb
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\bin\Debug\net7.0\HotelsApplication.Domain.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\bin\Debug\net7.0\HotelsApplication.Domain.pdb
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\obj\Debug\net7.0\HotelsApplication.Application.csproj.AssemblyReference.cache
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\obj\Debug\net7.0\HotelsApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\obj\Debug\net7.0\HotelsApplication.Application.AssemblyInfoInputs.cache
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\obj\Debug\net7.0\HotelsApplication.Application.AssemblyInfo.cs
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\obj\Debug\net7.0\HotelsApplication.Application.csproj.CoreCompileInputs.cache
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\obj\Debug\net7.0\HotelsApplication.Application.csproj.CopyComplete
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\obj\Debug\net7.0\HotelsApplication.Application.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\obj\Debug\net7.0\refint\HotelsApplication.Application.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\obj\Debug\net7.0\HotelsApplication.Application.pdb
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Application\obj\Debug\net7.0\ref\HotelsApplication.Application.dll

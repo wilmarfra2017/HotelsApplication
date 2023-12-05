@@ -1,0 +1,17 @@
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\bin\Debug\net7.0\HotelsApplication.Infraestructure.deps.json
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\bin\Debug\net7.0\HotelsApplication.Infraestructure.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\bin\Debug\net7.0\HotelsApplication.Infraestructure.pdb
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\bin\Debug\net7.0\HotelsApplication.Domain.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\bin\Debug\net7.0\HotelsApplication.Domain.pdb
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\HotelsApplication.Infraestructure.csproj.AssemblyReference.cache
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\HotelsApplication.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\HotelsApplication.Infraestructure.AssemblyInfoInputs.cache
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\HotelsApplication.Infraestructure.AssemblyInfo.cs
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\HotelsApplication.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\HotelsApplication.Infraestructure.csproj.CopyComplete
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\HotelsApplication.Infraestructure.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\refint\HotelsApplication.Infraestructure.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\HotelsApplication.Infraestructure.pdb
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\ref\HotelsApplication.Infraestructure.dll
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\bin\Debug\net7.0\HotelsApplication.Infraestructure.runtimeconfig.json
+D:\Project\HotelsApplication\HotelsApplication\HotelsApplication.Infraestructure\obj\Debug\net7.0\HotelsApplication.Infraestructure.genruntimeconfig.cache
