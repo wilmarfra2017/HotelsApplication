@@ -1,3 +1,4 @@
+using HotelsApplication.Application.Reservations;
 using HotelsApplication.ApplicationHotelsAndRooms;
 using HotelsApplication.Domain.Dtos;
 using System.Net.Http.Json;
@@ -23,13 +24,26 @@ namespace HotelsApplication.Api.Tests
                 "HOTEL123", "Test Hotel", "123 Test Address", 10, 5.0, true);
 
             // Act
-            var response = await client.PostAsJsonAsync("/api/hotels", newHotelCommand);
+            var response = await client.PostAsJsonAsync("/hotels", newHotelCommand);
 
             // Assert
             response.EnsureSuccessStatusCode();
             var createdHotel = await response.Content.ReadFromJsonAsync<HotelDto>();
             Assert.NotNull(createdHotel);
             Assert.Equal("Test Hotel", createdHotel.Name);
+        }
+
+        [Fact]
+        public async Task GetReservation_ReturnsDataResponse()
+        {
+            var client = _factory.CreateClient();
+            var requestUri = "/hotels/reservations";
+
+            var response = await client.GetAsync(requestUri);
+            response.EnsureSuccessStatusCode();
+
+            var reservations = await response.Content.ReadFromJsonAsync<IEnumerable<ReservationDto>>();
+            Assert.NotNull(reservations);                
         }
     }
 }

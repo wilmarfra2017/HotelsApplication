@@ -17,6 +17,7 @@ public class Program
         var config = builder.Configuration;
         // Add services to the container.
 
+        builder.Services.AddControllers();
         builder.Services.AddValidatorsFromAssemblyContaining<Program>(ServiceLifetime.Singleton);
 
 
@@ -24,8 +25,7 @@ public class Program
         {
             opts.UseSqlServer(config.GetConnectionString("db"));
         });
-
-        //builder.Services.AddDomainServices();
+        
         builder.Services.AddDomainServices(builder.Configuration);
 
         builder.Services.AddEndpointsApiExplorer();
@@ -50,7 +50,7 @@ public class Program
 
         app.UseHttpsRedirection();
 
-        app.MapGroup("/api/hotels").MapHotels();
+        app.MapControllers();
 
         app.Run();
     }
